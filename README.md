@@ -21,4 +21,8 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ### Link to deployed application
+https://35jakesmith.github.io/chicken-fried/
+
+### Screenshot of application
+![image](https://user-images.githubusercontent.com/88916856/138008395-36397d88-3fdf-4faa-ba3a-28b7fcbc6310.png)
 
