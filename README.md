@@ -22,5 +22,3 @@ THEN the saved events persist
 
 ### Link to deployed application
 
-
-### Screenshot of application
