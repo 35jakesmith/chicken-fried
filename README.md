@@ -21,3 +21,6 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ### Link to deployed application
+
+
+### Screenshot of application
